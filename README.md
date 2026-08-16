@@ -1,4 +1,5 @@
 ## Hi there 👋
+- 🌱 I’m currently learning - Network+, Microsoft Server 2025, IT Fundamentals
 
 <!--
 **KessAhmed786786/KessAhmed786786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
