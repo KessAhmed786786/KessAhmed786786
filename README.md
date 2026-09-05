@@ -28,10 +28,10 @@ M365 & Entra ID • Windows OS • Core Networking & VPN • ITSM • CompTIA Ne
 ### Hands-On Support & Infrastructure Labs
 
 | Lab / Project | Focus Areas | Scope & Implementation | Links |
-| :--- | :--- | :--- | :--- |
-| **Enterprise Identity & Cloud Administration Lab** | `Entra ID` `M365` `Intune` `Active Directory` | Configured hybrid identity, RBAC, Conditional Access policies, automated M365 user onboarding/offboarding workflows, and Group Policy Objects (GPO) for endpoint compliance. | [Documentation](https://github.com/yourusername/Enterprise-Identity-Access-Cloud-Administration-Lab) <br> [Architecture](https://github.com/yourusername/Enterprise-Identity-Access-Cloud-Administration-Lab#architecture) |
-| **Multi-OS Support & Diagnostic Environment** | `Windows 10/11` `macOS` `PowerShell` `Bash` | Built an incident reproduction sandbox to troubleshoot client VPN drops, DNS resolution faults, profile corruptions, and driver conflicts. Includes reusable PowerShell automated repair scripts. | [Documentation](https://github.com/yourusername/Multi-OS-Support-Diagnostic-Environment) <br> [Runbooks](https://github.com/yourusername/Multi-OS-Support-Diagnostic-Environment#runbooks) |
-| **Full-Cycle ITSM Help Desk & Knowledge Base** | `ITIL` `SLA Management` `Ticketing` `Documentation` | End-to-end IT service desk simulation: Tier 1/2 ticket triage workflows, incident escalation paths, root cause analysis (RCA) records, and 15+ user self-service guides. | [Documentation](https://github.com/yourusername/Full-Cycle-ITSM-Help-Desk-User-Knowledge-Base) <br> [SOP Library](https://github.com/yourusername/Full-Cycle-ITSM-Help-Desk-User-Knowledge-Base#sop-library) |
+| --- | --- | --- | --- |
+| **Enterprise Identity & Cloud Administration Lab** | `Entra ID` `M365` `Intune` `Active Directory` | Configured hybrid identity, RBAC, Conditional Access policies, automated M365 user onboarding/offboarding workflows, and Group Policy Objects (GPO) for endpoint compliance. | [Deployed Link](https://www.google.com/search?q=https://github.com/KessAhmed786786/Enterprise-Identity-Access-Cloud-Administration-Lab) |
+| **Multi-OS Support & Diagnostic Environment** | `Windows 10/11` `macOS` `PowerShell` `Bash` | Built an incident reproduction sandbox to troubleshoot client VPN drops, DNS resolution faults, profile corruptions, and driver conflicts. Includes reusable PowerShell automated repair scripts. | [Deployed Link](https://www.google.com/search?q=https://github.com/KessAhmed786786/Multi-OS-Support-Diagnostic-Environment) |
+| **Full-Cycle ITSM Help Desk & Knowledge Base** | `ITIL` `SLA Management` `Ticketing` `Documentation` | End-to-end IT service desk simulation: Tier 1/2 ticket triage workflows, incident escalation paths, root cause analysis (RCA) records, and 15+ user self-service guides. | [Deployed Link](https://www.google.com/search?q=https://github.com/KessAhmed786786/Full-Cycle-ITSM-Help-Desk-User-Knowledge-Base) |
 
 ---
 
