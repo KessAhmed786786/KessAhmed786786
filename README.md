@@ -1,19 +1,17 @@
-<div align="center">
+<div align="left">
 
 # Kess Ahmed
 
 **IT Support Specialist**  
 M365 & Entra ID • Windows OS • Core Networking & VPN • ITSM • CompTIA Network+
 
-[LinkedIn](https://linkedin.com/in/yourusername) • [Documentation & Labs](https://yourportfolio.dev) • [Email](mailto:kess.ahmed@email.com) • [CV / Resume](https://yourportfolio.dev/cv.pdf)
-
 </div>
 
 ---
 
-### 🛠️ Technical Competencies
+### Technical Competencies
 
-<div align="center">
+<div align="left">
 
 | Area | Technologies & Environments |
 | :--- | :--- |
@@ -27,7 +25,7 @@ M365 & Entra ID • Windows OS • Core Networking & VPN • ITSM • CompTIA Ne
 
 ---
 
-### 🖥️ Hands-On Support & Infrastructure Labs
+### Hands-On Support & Infrastructure Labs
 
 | Lab / Project | Focus Areas | Scope & Implementation | Links |
 | :--- | :--- | :--- | :--- |
@@ -37,9 +35,4 @@ M365 & Entra ID • Windows OS • Core Networking & VPN • ITSM • CompTIA Ne
 
 ---
 
-### 📊 Support Activity & Maintenance
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Activity" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Repositories" width="44%" />
-</div>
